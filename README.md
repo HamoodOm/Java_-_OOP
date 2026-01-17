@@ -1,4 +1,12 @@
-# 📚 Java 8 Interview Preparation Pack
+# Java 8 Interview Preparation Pack
+
+<div align="center">
+
+**English** | **[العربية](README_AR.md)**
+
+</div>
+
+---
 
 A comprehensive, structured guide to mastering Java 8 and OOP concepts for technical interviews. This repository contains 21 in-depth topics covering everything from Java fundamentals to advanced concepts, specifically designed for junior to mid-level Java developer positions.
 
